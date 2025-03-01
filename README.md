@@ -26,28 +26,31 @@ cd Crop_Yield_predication-Namma-Agri-
 
 ### 2️⃣ Install Dependencies
 
-sh
-Copy
-Edit
-pip install -r requirements.txt   # For Python backend
-npm install                        # If using React frontend
+- sh
+- Copy
+- Edit
+- pip install -r requirements.txt   # For Python backend
+- npm install                        # If using React frontend
 
 
 ### 3️⃣ Run the Application
 
-sh
-Copy
-Edit
-python app.py    # Flask/Django backend
-npm start        # React frontend
+- sh
+- Copy
+- Edit
+- python app.py    # Flask/Django backend
+- npm start        # React frontend
 
 
 ### 4️⃣ Usage
-Input required parameters (e.g., soil type, rainfall, temperature)
-Get yield predictions for different crops
-Visualize data to make informed decisions
+- Input required parameters (e.g., soil type, rainfall, temperature)
+- Get yield predictions for different crops
+- Visualize data to make informed decisions
 📸 Screenshots
-(Add relevant screenshots of the web interface and predictions here)
+![image](https://github.com/user-attachments/assets/df72f549-e553-4eb5-b7c1-5dc61a90618e)
+![Uploading image.png…]()
+
+
 
 📢 Contributing
 Fork the repository
