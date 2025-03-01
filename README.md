@@ -22,18 +22,26 @@
 
 git clone https://github.com/ABHISHEKHUBBALLI08/Crop_Yield_predication-Namma-Agri-.git
 cd Crop_Yield_predication-Namma-Agri-
+
+
 ###2️⃣ Install Dependencies
+
 sh
 Copy
 Edit
 pip install -r requirements.txt   # For Python backend
 npm install                        # If using React frontend
+
+
 ###3️⃣ Run the Application
+
 sh
 Copy
 Edit
 python app.py    # Flask/Django backend
 npm start        # React frontend
+
+
 ###4️⃣ Usage
 Input required parameters (e.g., soil type, rainfall, temperature)
 Get yield predictions for different crops
